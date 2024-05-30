@@ -1,5 +1,6 @@
-## Hi there 👋
-
+- 👋 Hey there, I'm Catalina, a creative coder and computer science student.
+- 🌱 I’m currently updating my GitHub profile, so please check back soon for updates.
+- 💬 In the meantime, you can connect with me on [LinkedIn](https://www.linkedin.com/in/catalina-escalona/).
 <!--
 **catalinaescalona/catalinaescalona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
