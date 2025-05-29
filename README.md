@@ -1,4 +1,4 @@
-- 👋 Hey there, I'm Catalina, a computer science student.
+- 👋 Hey there, I'm Catalina, a computer science student and creative coder.
 - 🌱 I’m currently updating my GitHub profile, so please check back soon for updates.
 - 💬 In the meantime, you can connect with me on [LinkedIn](https://www.linkedin.com/in/catalina-escalona/).
 <!--
